@@ -2,7 +2,7 @@ var datosJson = '[{ "Name" : "Alfreds Futterkiste", "City" : "Berlin", "Country"
 
 
 
-  alert("funcionando-2.....");
+  
     var personas = JSON.parse(datosJson);
     console.log(personas);
   
